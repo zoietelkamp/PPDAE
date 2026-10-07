@@ -1,7 +1,7 @@
 # ProtoPlanetary Disk AutoEncoders
 
 An AutoEncoder model to reconstruct and generate new images of edge-on Proto Planetary
-disks using physical parameters as input.
+disks using physical parameters as input ([Telkamp et al. 2022](https://iopscience.iop.org/article/10.3847/1538-4357/ac96f1))
 
 The model architecture is the following:
 
